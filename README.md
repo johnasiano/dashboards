@@ -50,5 +50,3 @@ betID:'sport:15697423'  active:True  Status:confirmed  Amount:$1818.59  Multibet
 ```
 To view a bet on browser, visit `https://stake.com/?modal=bet&iid={betID}`. Notice there are **multibet**, e.g. https://stake.com/?modal=bet&iid=sport:15697423.
 
-
-More details about the design: https://github.com/sitingren/SportsOrderbook/discussions/2
